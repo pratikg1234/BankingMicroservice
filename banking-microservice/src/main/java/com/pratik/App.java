@@ -5,6 +5,6 @@ package com.pratik;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Pratik");
+        System.out.println("Hello");
     }
 }
